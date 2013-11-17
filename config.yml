@@ -1,0 +1,393 @@
+---
+meta:
+  author: Dyaa Eldin Moustafa and Erik Flowers
+  homepage: http://erikflowers.github.io/weather-icons/
+  #email: 
+  #twitter: 
+  github: https://github.com/dyaa/weather-icons
+  license: SIL
+  license_url: http://scripts.sil.org/OFL
+
+  css_prefix_text: icon-
+  columns: 4
+
+font:
+  version: 1.0
+
+  fontname: weathercons
+
+  fullname: Weather Icons
+  familyname: Weather Icons
+
+  copyright: Copyright (C) 2013 by Dyaa Eldin Moustafa and Erik Flowers
+
+  ascent: 850
+  descent: 150
+  weight: Regular
+
+
+glyphs: 
+  - css: day-cloudy-gusts
+    code: 0xe800
+    uid: c77de216fba51e29c6fc03012d4d5973
+    search: [day, cloudy, gusts, wind, windy]
+  - css: day-cloudy-windy
+    code: 0xe801
+    uid: 5c1ea0743910d2621cd2e2e2dfc442f0
+    search: [day, cloudy, wind, windy]
+  - css: day-cloudy
+    code: 0xe802
+    uid: f36b75b1387eaff8368ed0342160e390
+    search: [day, cloud, cloudy, clouds]
+  - css: day-fog
+    code: 0xe803
+    uid: aa47a9ddadd90aea2704d58c3e9b1509
+    search: [day, fog, foggy]
+  - css: day-hail
+    code: 0xe804
+    uid: 2313b31f4239162ef59d7ddb5420a5d4
+    search: [day, hail, hailing]
+  - css: day-lightning
+    code: 0xe805
+    uid: 89afae022b69e84ae12aa43573d775e3
+    search: [day, storm, lightning]
+  - css: day-rain-mix
+    code: 0xe806
+    uid: 57d424d110f11e418aa3f3684b4fd6d2
+    search: [day, rain, mix, storm]
+  - css: day-rain-wind
+    code: 0xe807
+    uid: cf5bc7b9e59bd7cce95bbcbe3a07c4d7
+    search: [day, rain, wind, rainy, windy]
+  - css: day-rain
+    code: 0xe808
+    uid: 9fc4afd7f8eecb797c22f2bb0f6059a7
+    search: [day, rain, rainy]
+  - css: day-showers
+    code: 0xe809
+    uid: f1112392c14a2922c4a6fe0475ddf757
+    search: [day, showers, storm, rain]
+  - css: day-snow
+    code: 0xe80a
+    uid: a66fee4b89bb161f57df073ddae8375a
+    search: [day, snow, storm]
+  - css: day-sprinkle
+    code: 0xe812
+    uid: 18867ebecd44edc3c7085912304753cc
+    search: [day, sprinkle, rain]
+  - css: day-sunny-overcast
+    code: 0xe811
+    uid: c40ff4720f750ef2f60b7f602b58fbe6
+    search: [day, sunny, overcast, partly, cloudy]
+  - css: day-sunny
+    code: 0xe810
+    uid: f47b8c573fc785ee468cb6d77bbc5c15
+    search: [day, sun, sunny]
+  - css: day-storm-showers
+    code: 0xe80f
+    uid: 82887892a4b52f14e6a34d079813b264
+    search: [day, storm, showers, rain]
+  - css: day-thunderstorm
+    code: 0xe80e
+    uid: b760730c934b06f90e5d64c1bf00a4e8
+    search: [day, thunder, thunderstorm, storm]
+  - css: cloudy-gusts
+    code: 0xe80d
+    uid: 7eb76edfe9ed55ea050a4c793fd42692
+    search: [cloudy, gusts, wind, windy]
+  - css: cloudy-windy
+    code: 0xe80c
+    uid: 6d2d585cb5d3a97b34b298f81e348543
+    search: [cloudy, windy, gusts]
+  - css: cloudy
+    code: 0xe80b
+    uid: ea9257d8f5d6c151951173a27c5732a5
+    search: [clouds, cloudy]
+  - css: fog
+    code: 0xe813
+    uid: b3b83b373da452f2289c7fcde1d89b10
+    search: [fog, foggy]
+  - css: hail
+    code: 0xe814
+    uid: db700b547586c04c6c7c7c9d3f3e21a4
+    search: [hail, hailing]
+  - css: lightning
+    code: 0xe815
+    uid: 858d6e24df453918227c244bb4fcc0ef
+    search: [lightning, storm]
+  - css: rain-mix-1
+    code: 0xe816
+    uid: 5c1050273e7ba7c7b72e688db169d02e
+    search: [rain, mix, showers]
+  - css: rain-wind
+    code: 0xe817
+    uid: f1113aaa208c718735cbb3f3234f4f3e
+    search: [rain, wind, storm, gusts]
+  - css: rain
+    code: 0xe818
+    uid: e1157383c9c2009d8052e8abaf0bd74e
+    search: [rain, showers]
+  - css: showers
+    code: 0xe819
+    uid: 5ad1e3889a9f405bc107b47628ecd6be
+    search: [showers, storm, rain]
+  - css: snow
+    code: 0xe81a
+    uid: 151661991e65fdf18f2e81c28368815a
+    search: [snow, storm]
+  - css: sprinkle
+    code: 0xe81b
+    uid: 15ad51da2030c0eb31eece69dff5bae6
+    search: [sprinkle, light rain]
+  - css: storm-showers
+    code: 0xe81c
+    uid: 593cb68fc05a8a00a9ea2b9aa7bb735f
+    search: [storm, showers]
+  - css: thunderstorm
+    code: 0xe81d
+    uid: 110d9f92d9c4da9d557c74b6e57b4ad1
+    search: [thunder, storm]
+  - css: windy
+    code: 0xe81e
+    uid: d763c6a0893966e94b867e6e58adb2cc
+    search: [wind, breeze]
+  - css: night-alt-cloudy-gusts
+    code: 0xe81f
+    uid: 1e01f19094a07233ce252e93643ae24a
+    search: [night, cloudy, gusts]
+  - css: night-alt-cloudy-windy
+    code: 0xe820
+    uid: 4a9ad75f4455bbee36ac58af2ff4b6a6
+    search: [night, alt, cloudy, windy]
+  - css: night-alt-hail
+    code: 0xe821
+    uid: d31233a9df7354f9d09187066a010313
+    search: [night, hail, storm]
+  - css: night-alt-lightning
+    code: 0xe822
+    uid: a1fb82d63de31b641ad90d0aa3c6ed3a
+    search: [night, lightning, storm]
+  - css: night-alt-rain-mix
+    code: 0xe823
+    uid: 41eb5b33320e77dd5f3c05146e0d5de2
+    search: [night, rain, mix, alt]
+  - css: night-alt-rain-wind
+    code: 0xe824
+    uid: 62e3d9cc070115bc2daf1faeebf4d65d
+    search: [night, rain, wind, alt]
+  - css: night-alt-rain
+    code: 0xe825
+    uid: ef12ace9f3db4156ec1b02e9e8693af0
+    search: [night, rain]
+  - css: night-alt-showers
+    code: 0xe826
+    uid: 9a66a308a21a1271a9457e4ba31875b1
+    search: [night, showers]
+  - css: night-alt-snow
+    code: 0xe838
+    uid: 165f896a54f40b2903386ca138f2a689
+    search: [night, snow]
+  - css: night-alt-sprinkle
+    code: 0xe839
+    uid: 813bdd3d3691e3ccacfa18b61d018928
+    search: [night, rain, sprinkle]
+  - css: night-alt-storm-showers
+    code: 0xe83a
+    uid: 87c73a1943215a29eea23fc0a68cf32d
+    search: [night, storm, showers, rain]
+  - css: night-alt-thunderstorm
+    code: 0xe836
+    uid: e64b34b1aef5a6819a4cce52189907a8
+    search: [night, thunderstorm, alt, storm]
+  - css: night-clear
+    code: 0xe837
+    uid: db5983c3b6d9841d5467cec372c3f77a
+    search: [night, clear]
+  - css: night-cloudy-gusts
+    code: 0xe835
+    uid: 5ea72688b958dfa627ea39713cd462ab
+    search: [night, cloudy, gusts, wind]
+  - css: night-cloudy-windy
+    code: 0xe834
+    uid: 68e1c97f97b41e7034208af2d7365dc9
+    search: [night, cloudy, windy, gusts]
+  - css: night-cloud
+    code: 0xe833
+    uid: 080174a74cef4872f1f68f9635d155e1
+    search: [night, cloud, overcast]
+  - css: night-hail
+    code: 0xe832
+    uid: a794a85b76fdf3eb74404a81c2e92e71
+    search: [night, hail, storm]
+  - css: night-lightning
+    code: 0xe831
+    uid: a66142246bc67e372014f277f9b39ca6
+    search: [night, lightning, storm]
+  - css: night-rain-mix
+    code: 0xe830
+    uid: 3e816d195e55cf711235d71c36574339
+    search: [night, rain, mix, storm]
+  - css: night-rain-wind
+    code: 0xe82f
+    uid: 7c60b1d50a649913f5ab87a90615ae51
+    search: [night, rain, showers, wind]
+  - css: night-rain
+    code: 0xe82e
+    uid: 74e8e23d6cb204291146b035e08122ba
+    search: [night, rain, showers, storm]
+  - css: night-showers
+    code: 0xe82d
+    uid: 5408bb87188197189d2ccd6522890070
+    search: [night, showers, rain, storm]
+  - css: night-snow
+    code: 0xe82c
+    uid: ca2ee264e533f25d46ca2e67c4027516
+    search: [night, snow]
+  - css: night-sprinkle
+    code: 0xe82b
+    uid: 49e874f774472ed648eb6f45d7e4550a
+    search: [night, sprinkle, rain]
+  - css: night-storm-showers
+    code: 0xe82a
+    uid: 45ae8e1990f55a995c2ba9fcfe3d4e96
+    search: [night, storm, showers]
+  - css: night-thunderstorm
+    code: 0xe829
+    uid: 22be4a75854c084800e0742cb1334b16
+    search: [night, thunderstorm]
+  - css: celcius
+    code: 0xe828
+    uid: f1c2f40da8c5fd20eb80d7146b2f1c99
+    search: [celcius, degrees, temperature]
+  - css: cloud-down
+    code: 0xe827
+    uid: 1ac4eacdc36c9875960539ceee4568a7
+    search: [cloud, overcast, down]
+  - css: cloud-refresh
+    code: 0xe83b
+    uid: 5c5dbff648785b10f52fc8361fd2d504
+    search: [cloud, overcast, refresh]
+  - css: cloud-up
+    code: 0xe83c
+    uid: 966fbb63b7f3311d4abc5e4fbf334e50
+    search: [cloud, overcast, up]
+  - css: cloud
+    code: 0xe83d
+    uid: 483ba7685c48982d641d27ea8faaddea
+    search: [cloud, overcast]
+  - css: degrees
+    code: 0xe83e
+    uid: ebde8b9fb329ae673d876f7e02795152
+    search: [degrees, temperature, farenheit, celsius]
+  - css: down-left
+    code: 0xe83f
+    uid: f0264589f9ecc17ccf50ed5fc06095b9
+    search: [down, left]
+  - css: down
+    code: 0xe840
+    uid: 6e6f491be907a9b85109fd45af65eff3
+    search: [down]
+  - css: fahrenheit
+    code: 0xe841
+    uid: 48880f5f6c06a96ca97d293e7edd2d0f
+    search: [fahrenheit, temperature, degrees]
+  - css: horizon-alt
+    code: 0xe842
+    uid: ae74e54d8f833135af96a4d3ae2a22cc
+    search: [horizon, alt]
+  - css: horizon
+    code: 0xe843
+    uid: 13ea017cb5f59f2507cd37f5ee53d4cc
+    search: [horizon]
+  - css: left
+    code: 0xe844
+    uid: f6a25c0c278ecdb097db4aeb263a73bd
+    search: [left]
+  - css: night-fog
+    code: 0xe845
+    uid: bac6a09e5368dc0598ff2dcbc255d3bd
+    search: [night, fog]
+  - css: refresh-alt
+    code: 0xe846
+    uid: 68d2996ebe7593554a02d9bd1eb6e119
+    search: [refresh, alt]
+  - css: refresh
+    code: 0xe847
+    uid: 7d6976efff7763ff92d891d119f68259
+    search: [refresh]
+  - css: right
+    code: 0xe848
+    uid: 090183e1b211e67853a223203fb4db97
+    search: [right]
+  - css: sprinkles
+    code: 0xe849
+    uid: 7a343a6c93bce5017118d128296cd78a
+    search: [sprinkles, rain]
+  - css: strong-wind
+    code: 0xe84a
+    uid: bd31967c2c54201a1f4f99fe44e3d512
+    search: [strong, wind]
+  - css: sunrise
+    code: 0xe84b
+    uid: 4a2a831d2d6b7681aad40d194b876e5a
+    search: [sunrise, sun, morning]
+  - css: sunset
+    code: 0xe84c
+    uid: 2c322c3d1106efa9b05a0e2ce5ffe4fd
+    search: [sun, sunset, twilight]
+  - css: thermometer-exterior
+    code: 0xe84d
+    uid: e7b2cbba788ab3433de35d6dba79712b
+    search: [thermometer, exterior, temperature]
+  - css: thermometer-interior
+    code: 0xe84e
+    uid: 34198a2cc3ece5ec556681f2b5c20719
+    search: [thermometer, interior, temperature]
+  - css: thermometer
+    code: 0xe84f
+    uid: 8c1aab9ca6c03aaa0f7538e969557111
+    search: [thermometer, temperature]
+  - css: tornado
+    code: 0xe850
+    uid: 2097a594ae630279b899b8e86b1e2170
+    search: [tornado, warning]
+  - css: up-right
+    code: 0xe851
+    uid: 508b4f22c99f63e236f11eb1d08302cf
+    search: [up, right]
+  - css: up
+    code: 0xe852
+    uid: e12fe82cf3560feda3287b6b7ccff3fb
+    search: [up]
+  - css: wind-east
+    code: 0xe853
+    uid: bc383421c8a9cc085f4ef701124e0f68
+    search: [wind, east]
+  - css: wind-north-east
+    code: 0xe854
+    uid: b4d17835418b7fb462902af0bd210f59
+    search: [wind, north, east]
+  - css: wind-north-west
+    code: 0xe855
+    uid: 99112be5dc2e99b01d7ad85f40ec7ff8
+    search: [wind, north, west]
+  - css: wind-north
+    code: 0xe856
+    uid: 403f2b8832d7c4aae3a236b352f6ac89
+    search: [wind, north]
+  - css: wind-south-east
+    code: 0xe857
+    uid: 899be90c0df2b02a8234449770200487
+    search: [wind, south, east]
+  - css: wind-south-west
+    code: 0xe858
+    uid: 9e73eb7513d7ca3d94d220aa49581944
+    search: [wind, south, west]
+  - css: wind-south
+    code: 0xe85a
+    uid: a7251760fd985b9a599b857b2580fae4
+    search: [wind, south]
+  - css: wind-west
+    code: 0xe859
+    uid: fd0c14d8fb7f877e5a7bb21355f2f2e6
+    search: [wind, west]
