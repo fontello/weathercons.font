@@ -359,35 +359,35 @@ glyphs:
     code: 0xe852
     uid: e12fe82cf3560feda3287b6b7ccff3fb
     search: [up]
-  - css: wind-east
+  - css: wind-west
     code: 0xe853
     uid: bc383421c8a9cc085f4ef701124e0f68
-    search: [wind, east]
-  - css: wind-north-east
+    search: [wind, west]
+  - css: wind-south-west
     code: 0xe854
     uid: b4d17835418b7fb462902af0bd210f59
-    search: [wind, north, east]
-  - css: wind-north-west
+    search: [wind, south, west]
+  - css: wind-south-east
     code: 0xe855
     uid: 99112be5dc2e99b01d7ad85f40ec7ff8
-    search: [wind, north, west]
-  - css: wind-north
+    search: [wind, south, east]
+  - css: wind-south
     code: 0xe856
     uid: 403f2b8832d7c4aae3a236b352f6ac89
-    search: [wind, north]
-  - css: wind-south-east
+    search: [wind, south]
+  - css: wind-north-west
     code: 0xe857
     uid: 899be90c0df2b02a8234449770200487
-    search: [wind, south, east]
-  - css: wind-south-west
+    search: [wind, north, west]
+  - css: wind-north-east
     code: 0xe858
     uid: 9e73eb7513d7ca3d94d220aa49581944
-    search: [wind, south, west]
-  - css: wind-south
+    search: [wind, north, east]
+  - css: wind-north
     code: 0xe85a
     uid: a7251760fd985b9a599b857b2580fae4
-    search: [wind, south]
-  - css: wind-west
+    search: [wind, north]
+  - css: wind-east
     code: 0xe859
     uid: fd0c14d8fb7f877e5a7bb21355f2f2e6
-    search: [wind, west]
+    search: [wind, east]
