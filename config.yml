@@ -1,10 +1,10 @@
 ---
 meta:
-  author: Dyaa Eldin Moustafa and Erik Flowers
+  author: Erik Flowers
   homepage: http://erikflowers.github.io/weather-icons/
-  #email: 
-  #twitter: 
-  github: https://github.com/dyaa/weather-icons
+  email: erik@helloerik.com
+  twitter: @Erik_UX
+  github: https://github.com/erikflowers/weather-icons
   license: SIL
   license_url: http://scripts.sil.org/OFL
 
@@ -19,7 +19,7 @@ font:
   fullname: Weather Icons
   familyname: Weather Icons
 
-  copyright: Copyright (C) 2013 by Dyaa Eldin Moustafa and Erik Flowers
+  copyright: Copyright (C) 2013 by Erik Flowers
 
   ascent: 850
   descent: 150
